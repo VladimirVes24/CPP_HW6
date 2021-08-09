@@ -214,7 +214,7 @@ void Task5()
             }
         }
     }
-    else std::cout << "File not found!";
+    else std::cout << "File Source_File not found! Create one to try again.";
 
     if (!found) std::cout << "\nCould not find the word.";
 }
